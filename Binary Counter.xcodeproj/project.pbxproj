@@ -13,6 +13,7 @@
 		854C9AD327615F4600A5D523 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 854C9AD127615F4600A5D523 /* Main.storyboard */; };
 		854C9AD527615F4A00A5D523 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 854C9AD427615F4A00A5D523 /* Assets.xcassets */; };
 		854C9AD827615F4A00A5D523 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 854C9AD627615F4A00A5D523 /* LaunchScreen.storyboard */; };
+		854C9AE02761607000A5D523 /* BinaryCounterCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 854C9ADF2761607000A5D523 /* BinaryCounterCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		854C9AD427615F4A00A5D523 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		854C9AD727615F4A00A5D523 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		854C9AD927615F4A00A5D523 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		854C9ADF2761607000A5D523 /* BinaryCounterCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryCounterCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				854C9AD427615F4A00A5D523 /* Assets.xcassets */,
 				854C9AD627615F4A00A5D523 /* LaunchScreen.storyboard */,
 				854C9AD927615F4A00A5D523 /* Info.plist */,
+				854C9ADF2761607000A5D523 /* BinaryCounterCell.swift */,
 			);
 			path = "Binary Counter";
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				854C9AD027615F4600A5D523 /* ViewController.swift in Sources */,
 				854C9ACC27615F4600A5D523 /* AppDelegate.swift in Sources */,
 				854C9ACE27615F4600A5D523 /* SceneDelegate.swift in Sources */,
+				854C9AE02761607000A5D523 /* BinaryCounterCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
